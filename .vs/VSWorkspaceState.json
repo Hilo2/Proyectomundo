@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Museo",
+    "\\Museo\\Assets",
+    "\\Museo\\Assets\\Scenes",
+    "\\Museo\\Packages",
+    "\\Museo\\ProjectSettings"
   ],
-  "SelectedNode": "\\C:\\Users\\Moag555xD\\Source\\Repos\\Proyectomundo",
+  "SelectedNode": "\\Museo\\Assets\\Scenes\\SampleScene.unity",
   "PreviewInSolutionExplorer": false
 }
