@@ -3,8 +3,10 @@
     "",
     "\\Museo",
     "\\Museo\\Assets",
+    "\\Museo\\Assets\\Scenes",
     "\\Museo\\Packages",
     "\\Museo\\ProjectSettings"
   ],
+  "SelectedNode": "\\Museo\\Assets\\Scenes\\SampleScene.unity",
   "PreviewInSolutionExplorer": false
 }
